@@ -15,7 +15,7 @@ const Registration = () => {
         <span class="ml-2"> Google</span>
     </button>
     </div>
-    <div className="flex px-3 -mx-3 px-12">
+    <div className="flex -mx-3 px-12">
       <div className="relative w-full max-w-full px-3 mt-2 text-center shrink-0">
         <p className="z-20 inline px-4 mb-2 font-semibold leading-normal bg-white text-sm text-slate-400">or</p>
       </div>
